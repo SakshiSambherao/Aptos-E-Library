@@ -1,4 +1,4 @@
-Sure! Here’s a README file for your `MyModule::ELibrary` smart contract. This document outlines the vision, features, and future scope of the project.
+
 
 ---
 
