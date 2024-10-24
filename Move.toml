@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-MyModule = '0xb60f3f08e0607edc4aee0582e2470ee5b5e3962e77fbf0f91bb03efac672b1f6'
+MyModule = '0x1eae2f3589d1fc7ec9561c1fa7e57ce5e27e23fba4a7d40470f469f37f53c94b'
 [dev-addresses]
 
 [dependencies.AptosFramework]
